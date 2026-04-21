@@ -628,7 +628,7 @@ h2 { font-size: clamp(26px, 2.5vw, 36px); }
   align-items: center;
   justify-content: center;
   min-width: 275px;
-  min-height: 64px;
+  min-height: 52px;
   padding: 14px 28px;
   border-radius: 16px;
   background: #29c75f;
